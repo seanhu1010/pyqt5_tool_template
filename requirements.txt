@@ -1,0 +1,13 @@
+loguru>=0.5.3
+pytest>=6.2.4
+allure-pytest>=2.9.45
+PyQt5>=5.15.0, <5.16
+PyQt5-sip>=12
+PyQt5-stubs>=5.15
+pyqt5-tools
+qt-material
+PyQt5-Frameless-Window
+sphinx
+recommonmark
+sphinx-rtd-theme
+pyinstaller==6.2.0
