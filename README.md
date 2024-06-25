@@ -5,6 +5,9 @@ Introduction
 
 pyqt5开发工具模板示例
 
+![image](https://github.com/seanhu1010/pyqt5_tool_template/assets/9527259/cb6769ce-93f4-4bf2-a9ae-a92cdb1a4516)
+
+
 ### **功能**
 
 TBD
